@@ -46,6 +46,7 @@ Write the detailed procedure here
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 module ex4(sum, cout, a, b, cin);
+`````````````
     output sum;
     output cout;
     input a;
@@ -75,7 +76,7 @@ module ex44(df, bo, a, b, bin);
 
 endmodule
 
-*/
+````````````````
 
 **RTL Schematic**
 ![{724D5447-0807-438D-B308-8EB6E261F976}](https://github.com/user-attachments/assets/04c8f6ce-c747-4de3-a176-707b98c6a4b6)
